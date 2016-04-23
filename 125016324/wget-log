@@ -1,0 +1,11 @@
+--2016-04-23 17:49:06--  http://snbook.suning.cn/private/books/D1E419C469DF/7A38F71BEAB1/618C9E676769/869A553178E3/CA3882CC9A75/chapter_1.txt?bookId=125016324&chapterNo=26&userId=35223998821&cNo=6109702116
+正在解析主机 snbook.suning.cn (snbook.suning.cn)... 113.107.112.214, 183.57.28.61, 14.215.100.94
+正在连接 snbook.suning.cn (snbook.suning.cn)|113.107.112.214|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 “wget-log”
+长度： 4880 (4.8K) [application/octet-stream]
+正在保存至: “26.txt”
+
+     0K ....                                                  100% 1.03M=0.005s
+
+2016-04-23 17:49:07 (1.03 MB/s) - 已保存 “26.txt” [4880/4880])
+
